@@ -72,7 +72,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Theo's Blog"
   name = "Theo Le Bever"
-  description = "I'm a fifth year cybersecurity student at EPITA. This blog is where I'll be sharing some articles about my projects and my researches."
+  description = "Welcome to my blog about my cybersecurity research. This is where I'll be sharing some articles about my projects and my researches. I hope you'll enjoy it !"
 
 # Allow to override webmanifest options
 [params.webmanifest]
@@ -89,13 +89,13 @@ disqusShortname = ''
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/theolebever"
+
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/théo-le-bever"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
-
+name = "rootme"
+url = "https://www.root-me.org/Belvedere"
